@@ -1,0 +1,1 @@
+瀏覽: /static/test.txt 即可看到此文件內容 
